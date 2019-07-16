@@ -24,7 +24,7 @@ con programas digitales y tener mejor manejo de su tiempo.
 
 # Investigación
 
-### Educación en línea
+## Educación en línea
 
 En México, una de cada 3 personas se encuentra estudiando en algún grado escolar y en conjunto suman 42 millones de estudiantes con un promedio de 9.2 años cursados, que equivale a una carrera técnica o comercial con secundaria concluida.
 
@@ -99,3 +99,7 @@ Con Schoology se pueden crear grupos de alumnos, herramientas de evaluación, fo
 ### Benchmarck
 
 ![benchmarck](https://imgbbb.com/images/2019/07/16/Ganador---Benchmark.jpg)
+
+### Stakeholder's map
+
+![stake](https://imgbbb.com/images/2019/07/16/Ganador---Stakeholders-map.jpg)
