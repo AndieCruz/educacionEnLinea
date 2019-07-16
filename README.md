@@ -145,6 +145,6 @@ La implementación de la solución se plantea en un Roadmap a corto, mediano y l
 ## Landing page
 ![landing](https://imgbbb.com/images/2019/07/16/Landing-page.png)
 
-### Test de inteligencia
-![test](https://imgbbb.com/images/2019/07/16/test--14.png)
-![resultado](https://imgbbb.com/images/2019/07/16/test.png)
+### Mini test de inteligencia
+
+![test](https://imgbbb.com/images/2019/07/16/test.png)
