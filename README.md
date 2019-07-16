@@ -42,3 +42,15 @@ La educación en línea crece de manera constante, ya que representa una de las 
 
 ![img](https://imgbbb.com/images/2019/07/16/image.png)
 
+### Carreras más demandadas en línea
+
+1. Administración de Empresas
+2. Licenciatura en Marketing
+3. Licenciatura en Informática
+4. Cursos de medicina
+5. Economía
+6. Publicidad y Relaciones Públicas
+7. Geotecnologías Cartográficas en Ingeniería y Arquitectura
+8. Derecho
+9. Business Analytics
+10. Ciencias Ambientales
