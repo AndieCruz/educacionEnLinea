@@ -140,3 +140,11 @@ Como resultado obtuvimos: *Modelo educativo con base en competencias, que sea 10
 
 La implementación de la solución se plantea en un Roadmap a corto, mediano y largo plazo.
 ![Roadmap](https://i.ibb.co/4j0cPjW/road.png)
+
+# Prototipo
+## Landing page
+![landing](https://imgbbb.com/images/2019/07/16/Landing-page.png)
+
+### Test de inteligencia
+![test](https://imgbbb.com/images/2019/07/16/test--14.png)
+![resultado](https://imgbbb.com/images/2019/07/16/test.png)
