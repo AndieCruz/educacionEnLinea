@@ -149,7 +149,7 @@ La implementación de la solución se plantea en un Roadmap a corto, mediano y l
 
 ![test](https://imgbbb.com/images/2019/07/16/test.png)
 
-# Autoras 👩🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+# Autoras 👩🏻‍💻👩🏻‍💻👩🏻‍💻
 - Andrea Cruz Hernández - [AndieCruz](https://github.com/AndieCruz)
 - Brenda Vasquez - [Brendss](https://github.com/Brendss)
 - Cristal García - [Cristalgarcia](https://github.com/Cristalgarcia)
