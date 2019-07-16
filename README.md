@@ -35,6 +35,10 @@ Las principales razones por las cuáles una persona desea recibir capacitación 
 
 En este contexto, Internet se muestra como la primera fuente en donde las personas se informan sobre instituciones y planes y programas de estudio, horarios y financiamiento con un 81%, seguido del acercamiento directo con las instituciones y las recomendaciones personales.
 
-[img](https://imgbbb.com/images/2019/07/16/Captura-de-Pantalla-2019-04-09-a-las-13.29.18.png)
+![img](https://imgbbb.com/images/2019/07/16/Captura-de-Pantalla-2019-04-09-a-las-13.29.18.png)
 
 La educación en línea crece de manera constante, ya que representa una de las mejores oportunidades de formación frente a la limitada oferta de las universidades públicas, al tiempo que tendrían que dedicar frente a un programa universitario tradicional y, sobre todo, a la posibilidad de construir un programa que desarrolle las competencias necesarias para las labores que desempeñan.
+
+
+![img](https://imgbbb.com/images/2019/07/16/image.png)
+
