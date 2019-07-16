@@ -13,3 +13,28 @@ Desarrollar una visión estratégica sobre cómo las herramientas tecnológicas 
 
 ## Objetivo de aprendizaje
 Comprender el diseño estratégico como un proceso que, a través del entendimiento del usuario, nos permite desarrollar un pensamiento sistémico y proponer soluciones innovadoras para problemas complejos (wicked problems). Familiarizarse con herramientas relacionadas al diseño estratégico como trend scan, insights y oportunidades, diseño de conceptos de solución y roadmap de implementación.
+
+
+# Investigación
+
+### Educación en línea
+
+En México, una de cada 3 personas se encuentra estudiando en algún grado escolar y en conjunto suman 42 millones de estudiantes con un promedio de 9.2 años cursados, que equivale a una carrera técnica o comercial con secundaria concluida.
+
+Si bien la media se ha incrementado, aún falta mucho para lograr que la población cuente con estudios especializados que le permitan tener una mayor competitividad que se traduzca en mayores fuentes de empleo, mayor emprendimiento y por supuesto, una mejora del ingreso familiar.
+
+![img](https://imgbbb.com/images/2019/07/16/Captura-de-Pantalla-2019-04-09-a-las-13.28.12.png)
+
+Una de las soluciones que se ha construido sólidamente en los últimos años es la autoformación digital, es decir, la educación especializada a la carta que permite a los individuos continuar con su formación en un entorno mucho más amigable y flexible, decidiendo horarios, planes de estudio y presupuestos.
+
+De acuerdo con el estudio sobre educación en línea presentado por la Asociación de Internet, el 97% de los internautas en México se encuentra estudiando o bien, está interesado en hacerlo. Además, existe un panorama propicio para la educación on line, ya que 7 de cada 10 usuarios de internet (67%) tiene empleo y de ellos, el 57% gana entre 5,000 y 15, 000 pesos, situación que permitiría invertir en la formación continua.
+
+Este panorama se vuelve aún más atractivo para la especialización y educación continua, ya que el 62% de los usuarios de Internet en México cuentan con una licenciatura o ingeniería concluida, en curso o trunca, lo que construye un amplio mercado para la educación especializada.
+
+Las principales razones por las cuáles una persona desea recibir capacitación tienen que ver en primer lugar con la satisfacción personal, seguido del deseo de cambiar empleo o bien, obtener un mejor salario o ascenso.
+
+En este contexto, Internet se muestra como la primera fuente en donde las personas se informan sobre instituciones y planes y programas de estudio, horarios y financiamiento con un 81%, seguido del acercamiento directo con las instituciones y las recomendaciones personales.
+
+[img](https://imgbbb.com/images/2019/07/16/Captura-de-Pantalla-2019-04-09-a-las-13.29.18.png)
+
+La educación en línea crece de manera constante, ya que representa una de las mejores oportunidades de formación frente a la limitada oferta de las universidades públicas, al tiempo que tendrían que dedicar frente a un programa universitario tradicional y, sobre todo, a la posibilidad de construir un programa que desarrolle las competencias necesarias para las labores que desempeñan.
