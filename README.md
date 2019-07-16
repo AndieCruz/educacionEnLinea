@@ -98,4 +98,4 @@ Con Schoology se pueden crear grupos de alumnos, herramientas de evaluación, fo
 
 ### Benchmarck
 
-[benchmarck](https://imgbbb.com/images/2019/07/16/Ganador---Benchmark.jpg)
+![benchmarck](https://imgbbb.com/images/2019/07/16/Ganador---Benchmark.jpg)
