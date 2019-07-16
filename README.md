@@ -22,12 +22,6 @@ En general, los estudiantes están acostumbrados a estudiar en una modalidad pre
 comenzado a adoptar la modalidad mixta, donde pueden combinar la asistencia a la escuela
 con programas digitales y tener mejor manejo de su tiempo.
 
-En México, las principales universidades públicas y privadas del país se han unido a esta tendencia y ofrecen cursos, certificados, carreras universitarias, diplomados y maestrías en línea que incluyen los mismos aprendizajes y enseñanzas que los estudios presenciales. 
-
-Es importante resaltar los beneficios de estudiar en modalidad en línea, ya que de acuerdo a los internautas, esta modalidad les exige tener mayor disciplina, proactividad y dedicación.
-
-![Ventajas](https://i.ibb.co/fHqJwNh/image-1.png)
-
 # Investigación
 
 ### Educación en línea
@@ -52,8 +46,11 @@ En este contexto, Internet se muestra como la primera fuente en donde las person
 
 La educación en línea crece de manera constante, ya que representa una de las mejores oportunidades de formación frente a la limitada oferta de las universidades públicas, al tiempo que tendrían que dedicar frente a un programa universitario tradicional y, sobre todo, a la posibilidad de construir un programa que desarrolle las competencias necesarias para las labores que desempeñan.
 
+En México, las principales universidades públicas y privadas del país se han unido a esta tendencia y ofrecen cursos, certificados, carreras universitarias, diplomados y maestrías en línea que incluyen los mismos aprendizajes y enseñanzas que los estudios presenciales. 
 
-![img](https://imgbbb.com/images/2019/07/16/image.png)
+Es importante resaltar los beneficios de estudiar en modalidad en línea, ya que de acuerdo a los internautas, esta modalidad les exige tener mayor disciplina, proactividad y dedicación.
+
+![Ventajas](https://i.ibb.co/fHqJwNh/image-1.png)
 
 ### Carreras más demandadas en línea
 
@@ -98,3 +95,7 @@ El LMS de Brightspace es una plataforma de aprendizaje en la nube. Es decir, que
 -La iniciativa integra muchas de las características de una red social, en este caso de educación, donde maestros, padres y estudiantes, pueden tener un perfil, un homepage y contactos; hacer parte de diferentes grupos de discusión y trabajo; enterarse de eventos y recibir notificaciones, y por supuesto, compartir contenido.
 
 Con Schoology se pueden crear grupos de alumnos, herramientas de evaluación, foros de debate, tablones de anuncio, subir recursos propios e incluso incluir recursos alojados en plataformas externas como Google Drive, Khan Academy, Dropbox, Evernote.
+
+### Benchmarck
+
+[benchmarck](https://imgbbb.com/images/2019/07/16/Ganador---Benchmark.jpg)
